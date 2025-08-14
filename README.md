@@ -106,6 +106,6 @@ The core logic for data processing and analysis is contained in the `PHASE_1_and
 
 ---
 
-## 📈 Expected Outcome
+## Expected Outcome
 
 After running the notebook successfully, you will have generated intermediate data files and visualizations. The final output cell in the Jupyter Notebook will display a plot showing the spatial distribution of the average Aerosol Optical Depth over the Maharashtra region for the specified study period, similar to the analysis in the reference paper.
