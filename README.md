@@ -6,7 +6,7 @@ The implementation uses satellite data from NASA's Terra/Aqua (MAIAC) and meteor
 
 ---
 
-## 🔬 Core Objective
+## Core Objective
 
 The goal of this project is to process, align, and analyze multiple satellite and meteorological datasets to study air quality. This involves:
 1.  **Downloading** required MAIAC AOD and MERRA-2 meteorological data for a specific time and region.
@@ -17,7 +17,7 @@ The goal of this project is to process, align, and analyze multiple satellite an
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following set up:
 
@@ -30,7 +30,7 @@ Before you begin, ensure you have the following set up:
 
 ---
 
-## 🚀 Step-by-Step Implementation Guide
+## Step-by-Step Implementation Guide
 
 Follow these steps to reproduce the analysis.
 
@@ -88,7 +88,7 @@ The core logic for data processing and analysis is contained in the `PHASE_1_and
 
 ---
 
-## 📂 Project File Structure
+## Project File Structure
 
 ```
 .
