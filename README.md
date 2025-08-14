@@ -1,5 +1,5 @@
 ## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/Floyd-Pinto/Aerosol-Optical-Depth/blob/main/LICENSE) file for details.
 
 
 # Aerosol Optical Depth (AOD) Analysis for Maharashtra
