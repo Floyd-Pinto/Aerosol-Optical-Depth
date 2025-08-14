@@ -1,3 +1,7 @@
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+
 # Aerosol Optical Depth (AOD) Analysis for Maharashtra
 
 This project is a Python-based implementation of the methodology described in the research paper **"An Improved High-Resolution AOD-PM2.5 Relationship Using Ground-Based Observations and Satellite-Derived Datasets"** to analyze Aerosol Optical Depth (AOD) and its relationship with PM2.5 concentrations, with a specific focus on the Maharashtra region of India.
